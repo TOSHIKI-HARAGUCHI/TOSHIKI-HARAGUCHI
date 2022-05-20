@@ -6,6 +6,6 @@
 
 ## Skills
 <p>languages</p>
-<img src="https://skillicons.dev/icons?i=c,go,js,python" />
+<img src="https://skillicons.dev/icons?i=c,bash,go,js,python" />
 <p>others</p>
-<img src="https://skillicons.dev/icons?i=nodejs,react,linux,bash,git,materialui" />
+<img src="https://skillicons.dev/icons?i=nodejs,react,linux,git,materialui" />
