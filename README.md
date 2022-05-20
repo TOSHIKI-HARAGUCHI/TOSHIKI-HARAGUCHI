@@ -5,4 +5,4 @@
 </div>
 
 ## Skills
-<img src="https://skillicons.dev/icons?i=c,git,js,react" />
+<img src="https://skillicons.dev/icons?i=c,git,js,react,linux,bash" />
