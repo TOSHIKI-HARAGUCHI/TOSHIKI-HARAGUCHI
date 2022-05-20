@@ -5,7 +5,7 @@
 </div>
 
 ## Skills
-<p>language</p>
+<p>languages</p>
 <img src="https://skillicons.dev/icons?i=c,go,js,python" />
 <p>others</p>
 <img src="https://skillicons.dev/icons?i=nodejs,react,linux,bash,git,materialui" />
