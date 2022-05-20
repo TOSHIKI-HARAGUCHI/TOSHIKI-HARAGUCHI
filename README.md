@@ -5,6 +5,4 @@
 </div>
 
 ## Skills
-<img src="https://raw.githubusercontent.com/kadir014/kadir014.github.io/master/assets/clogo.png" width=50>
-<!-- <img src="https://raw.githubusercontent.com/kadir014/kadir014.github.io/master/assets/htmllogo.png" width=50>
-<img src="https://raw.githubusercontent.com/kadir014/kadir014.github.io/master/assets/csslogo.png" width=50>  -->
+<img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
