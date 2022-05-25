@@ -7,7 +7,7 @@
 <h1 align="center">Skills</h1>
 <div align="center">
 <p>languages</p>
-<img src="https://skillicons.dev/icons?i=c,bash,go,js,python" />
+<img src="https://skillicons.dev/icons?i=c,bash,python,go,js" />
 <p>others</p>
-<img src="https://skillicons.dev/icons?i=nodejs,react,linux,git,materialui,html,css" />
+<img src="https://skillicons.dev/icons?i=nodejs,react,linux,git,materialui,md,html,css" />
 </div>
