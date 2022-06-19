@@ -9,5 +9,5 @@
 <p>languages</p>
 <img src="https://skillicons.dev/icons?i=c,bash,python,go,js,cpp" />
 <p>others</p>
-<img src="https://skillicons.dev/icons?i=nodejs,react,linux,git,materialui,md,html,css" />
+<img src="https://skillicons.dev/icons?i=nodejs,react,linux,git,md,html,css" />
 </div>
