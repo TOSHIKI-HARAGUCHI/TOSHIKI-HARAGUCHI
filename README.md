@@ -1,3 +1,6 @@
+<div align="center">
+  <img height="100em" src=https://media1.tenor.com/images/2eada1bbeb4ed4182079cf00070324a2/tenor.gif?itemid=13903117">
+</div>
 <h1 align="center">My Stats</h1>
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharaguc&layout=compact&theme=onedark">
