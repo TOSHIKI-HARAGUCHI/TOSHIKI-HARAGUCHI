@@ -10,5 +10,5 @@
 <p>languages</p>
 <img src="https://skillicons.dev/icons?i=c,cpp,bash,python,go,js,solidity" />
 <p>others</p>
-<img src="https://skillicons.dev/icons?i=cmake,nodejs,react,linux,git,flutter,firebase,html,css,mysql,vim" />
+<img src="https://skillicons.dev/icons?i=cmake,nodejs,react,linux,git,vim" />
 </div>
