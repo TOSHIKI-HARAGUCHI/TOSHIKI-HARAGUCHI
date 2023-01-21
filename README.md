@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
   <img height="100em" src=https://media1.tenor.com/images/2eada1bbeb4ed4182079cf00070324a2/tenor.gif?itemid=13903117">
 </div>
 <div align="center">
@@ -11,4 +11,4 @@
 <img src="https://skillicons.dev/icons?i=c,cpp,bash,python,go,js,ts,solidity" />
 <p>others</p>
 <img src="https://skillicons.dev/icons?i=cmake,nodejs,react,linux,vim" />
-</div>
+</div> -->
